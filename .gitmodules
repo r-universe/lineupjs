@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "lineupjs"]
+	path = lineupjs
+	url = https://github.com/lineupjs/lineup_htmlwidget
+	shallow = true
+	registered = true
